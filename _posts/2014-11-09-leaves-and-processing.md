@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Leaves and Processing
 published: true
 ---
 
@@ -17,4 +19,4 @@ Links:
 ### All RGB
 Revisiting my All RGB algorithm implementation in processing and playing with other distance criteria and adding noise produces some neat effects:
 
-![Leaf close up](/images/2014-11-09_screenshot_002.jpg)
+![Pixel sort](/images/2014-11-09_screenshot_002.jpg)
