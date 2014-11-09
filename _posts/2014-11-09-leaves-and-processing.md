@@ -4,8 +4,6 @@ title: Leaves and Processing
 published: true
 ---
 
-## Leaves and Processing
-
 ### Leaves
 I really love this (google image search found) picture of a leaf pattern:
 
