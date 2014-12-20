@@ -11,4 +11,3 @@ Looking for a better way sent me on some long and complicated tour of web techno
 But for now, a link to my in progress [temperature charts](http://www.cutsquash.com/temperature.html), and a screenshot:
 
 ![D3js temperature chart](/images/2014-12-20_screenshot_001.jpg)
-![Penguin sketch](/images/2014-11-24_screenshot_002.jpg)
