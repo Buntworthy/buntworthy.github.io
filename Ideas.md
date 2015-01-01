@@ -7,8 +7,10 @@ Some ideas I had:
 
 * Computer vision pasta shape identification app
 * Randomly generated landscapes shown on e-ink display
+* Long exposure images of things collapsing in Blender
+* Analysis of Google search/Chrom browsing history
 
-## Computational photography
+### Computational photography
 
 * SIFT based collage/reconstruction
 * Face detection collage/reverse collage
