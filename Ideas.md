@@ -26,3 +26,8 @@ Some ideas I had:
 * Computer vision pasta shape identification app
 * Microlife calculator (see http://journals.bmj.com/site/microlives/)
 * Tea brewing timer that shows an appropriate length YouTube video
+
+### Learning projects to try
+
+* Bag of words fruit identifier
+* Depth from focus
