@@ -19,7 +19,6 @@ Some ideas I had:
 * Spatially varying shutter speed image
 * Additive (background subtracted) day time long exposure
 * Non-linear slit-scan
-* [Visualising SIFT features](http://www.cutsquash.com/2014/11/visualising-sift-descriptors/)
 
 ### Apps
 
@@ -31,3 +30,10 @@ Some ideas I had:
 
 * Bag of words fruit identifier
 * Depth from focus
+* Webserver controlled Fadecandy LED lamp
+* MySQL Raspberry Pi temperature logger
+
+### Completed
+
+* [Raspberry Pi temperature logger](http://www.cutsquash.com/2015/01/simple-temperature-logger/)
+* [Visualising SIFT features](http://www.cutsquash.com/2014/11/visualising-sift-descriptors/)
