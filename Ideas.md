@@ -8,7 +8,7 @@ Some ideas I had:
 * Computer vision pasta shape identification app
 * Randomly generated landscapes shown on e-ink display
 * Long exposure images of things collapsing in Blender
-* Analysis of Google search/Chrom browsing history
+* Analysis of Google search/Chrome browsing history
 
 ### Computational photography
 
