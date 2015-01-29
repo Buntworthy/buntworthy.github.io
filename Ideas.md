@@ -11,6 +11,7 @@ Some ideas I had:
 * Long exposure images of things collapsing in Blender
 * Analysis of Google search/Chrome browsing history
 * Personal weather forecast (i.e. commute conditions, temperature preferances)
+* Temporal geographic visualisation of house price sales data (from [Land registry data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads))
 
 ### Computational photography
 
