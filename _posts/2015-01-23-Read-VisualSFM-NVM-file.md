@@ -6,7 +6,7 @@ published: true
 
 [VisualSFM](http://ccwu.me/vsfm/) is the fastest easiest way I've seen to try out [structure from motion](http://en.wikipedia.org/wiki/Structure_from_motion). (I'm always amazed that this is even possible!). VisualSFM produces .NVM files which contain all the 3D points (as well as colours) and the camera matrices. Here is a Matlab 'readNVM' function I wrote at some point to read the NVM file into Matlab variables.
 
-```matlab
+{% highlight matlab %}
 function [camera point] = readNVM(filename)
 fid = fopen(filename);
 c = textscan(fid,'%s');
@@ -49,4 +49,4 @@ while idx < length(c{1})-42
     % increment counter
     count = count + 1;
 end
-```
+{% endhighlight %}
