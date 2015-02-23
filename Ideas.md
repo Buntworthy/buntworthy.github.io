@@ -11,7 +11,8 @@ Some ideas I had:
 * Long exposure images of things collapsing in Blender
 * Analysis of Google search/Chrome browsing history
 * Personal weather forecast (i.e. commute conditions, temperature preferances)
-* Temporal geographic visualisation of house price sales data (from [Land registry data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads))
+* Temporal geographic visualisation of house price sales data [*started*](http://www.cutsquash.com/2015/02/visualising-house-price-data-ipython/)
+* RGB LEDs placed in the bottom of origami flowers
 
 ### Computational photography
 
@@ -20,6 +21,7 @@ Some ideas I had:
 * Spatially varying shutter speed image
 * Additive (background subtracted) day time long exposure
 * Non-linear slit-scan
+* Measuring depth by ratio of pixel intensity with collimated and focused illumination
 
 ### Apps
 
