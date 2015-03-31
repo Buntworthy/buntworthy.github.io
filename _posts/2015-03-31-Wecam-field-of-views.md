@@ -6,6 +6,11 @@ published: true
 
 I spent too much time looking at/buying webcams today. A not frequently obviously stated, yet very useful parameter is the field of view of the webcam. Happily this information does exist, it's just sometimes a bit buried. So here is a list of what I came across.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 | Model                       | FOV (degrees, diagonal unless otherwise stated) |
 |-----------------------------|---------------------------------------------------|
 | Logitech   C160             | 50                                                |
