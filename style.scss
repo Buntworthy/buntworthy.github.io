@@ -115,6 +115,18 @@ img {
   color: $gray;
 }
 
+table, td, th {
+  border: 1px solid black;
+}
+
+td, th {
+  padding: 5px;
+}
+
+th {
+  font-weight: bold;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
