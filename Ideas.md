@@ -28,6 +28,7 @@ Some ideas I had:
 * Computer vision pasta shape identification app
 * Microlife calculator (see http://journals.bmj.com/site/microlives/)
 * Tea brewing timer that shows an appropriate length YouTube video
+* Self quantifying app - an app that quantifies and gamifies using it
 
 ### Learning projects to try
 
@@ -35,6 +36,7 @@ Some ideas I had:
 * Depth from focus
 * Webserver controlled Fadecandy LED lamp
 * MySQL Raspberry Pi temperature logger
+* Making low cost PDMS moulds with 3D printer or heat shrink plastic
 
 ### Completed
 
